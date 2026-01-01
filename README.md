@@ -1,0 +1,5 @@
+# Jenkins + Docker CI/CD Demo
+
+This is a simple Node.js app used to demonstrate:
+- Jenkins CI
+- Docker CD
